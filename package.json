@@ -1,0 +1,24 @@
+{
+  "name": "freedom-odisha-vacancy",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^1.61.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-helmet-async": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "autoprefixer": "^10.6.2",
+    "postcss": "^8.5.32",
+    "tailwindcss": "^3.4.19",
+    "vite": "^8.3.5"
+  }
+}
